@@ -1,4 +1,6 @@
 # recommendation engine with IBM
+
+This is a project of my Nanodegree "Data Science" using Python.
 ## Table of Contents
 
 -  I. Exploratory Data Analysis
@@ -8,7 +10,6 @@ IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
 V. Matrix Factorization
 VI. Extras & Concluding
 
-# sparkify_capstone  
 This is a project of my Nanodegree "Data Science" using Python.
 
 ## Introduction:  
