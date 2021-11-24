@@ -24,7 +24,3 @@ run the file "Recommendations_with_IBM.ipynb"
 -  numpy  
 -  matplotlib.pyplot  
 -  pickle  
-
-## Conclusion:  
-- 
-
